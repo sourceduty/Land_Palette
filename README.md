@@ -5,7 +5,7 @@
 
 This data visualization concept was designed for the people of Canada and The Government of Canada.
 
-# FEATURES
+## FEATURES
 
 - Data visualization representing the total measure of land areas.
 
